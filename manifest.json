@@ -9301,21 +9301,6 @@
    "bytes": 307660,
    "sha256": "3f4af36b5f4eff92c09cd51cf0b05327339311829d412fe55c3170163ecfb467"
   },
-  "en:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9e307963bf8152a253f0f444f52b64a0fc139493/audio/en/perge-4.mp3",
-   "bytes": 372026,
-   "sha256": "ad67ebeadb20149fea7d1f0326c7020ae6674f2690d9ec5765b235127c0c602b"
-  },
-  "en:perge:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9e307963bf8152a253f0f444f52b64a0fc139493/audio/en/perge-5.mp3",
-   "bytes": 421345,
-   "sha256": "6ecea10ce7435f96abfe45c6b1d324841637da86ae09c2b19d71eed3ee763a4d"
-  },
-  "en:perge:6": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9e307963bf8152a253f0f444f52b64a0fc139493/audio/en/perge-6.mp3",
-   "bytes": 416748,
-   "sha256": "9090d8a3c8e0e3e257297268189fd77c2791a541cef0943c766e47eb15413bc2"
-  },
   "en:selcuk-sites:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/selcuk-sites-1.mp3",
    "bytes": 569094,
@@ -19551,11 +19536,6 @@
    "bytes": 271925,
    "sha256": "f76ebc78131307637a149cff16f92860209845659f7e36acff0e03e30f6e797b"
   },
-  "es:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/es/perge-3.mp3",
-   "bytes": 364921,
-   "sha256": "cef888d5e296bd566cb7e7a5198d0f2018d8d44859e3295a6afe76b6b4b76cb9"
-  },
   "es:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/es/perge-2.mp3",
    "bytes": 271507,
@@ -19575,11 +19555,6 @@
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/ja/perge-4.mp3",
    "bytes": 422808,
    "sha256": "50fe805fae82ec7043052660fdf4bb0964ba5ff37181529d1c367c556ac7283f"
-  },
-  "ja:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/ja/perge-3.mp3",
-   "bytes": 490727,
-   "sha256": "25c0bf776641cb40ad5c41e65f5eaebfa67c448025aa674af379371be397d637"
   },
   "ja:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/ja/perge-2.mp3",
@@ -19601,11 +19576,6 @@
    "bytes": 254789,
    "sha256": "97187ec3aa3f38e5dc38654657908a0784bde52bf98413a69e1efbdf18a63230"
   },
-  "fr:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/fr/perge-3.mp3",
-   "bytes": 321035,
-   "sha256": "d4255dfadbcecb4808e1417f36d5c8b88d39499f6bda5743c0a811d2a64102e5"
-  },
   "fr:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/fr/perge-2.mp3",
    "bytes": 283628,
@@ -19625,11 +19595,6 @@
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/zh/perge-4.mp3",
    "bytes": 269208,
    "sha256": "3705e4554025adf934e113890531b521e507df543e0842878d77ed9cf8218812"
-  },
-  "zh:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/zh/perge-3.mp3",
-   "bytes": 338798,
-   "sha256": "5006ecdcfcd9aef333fc8c5fb35870116e89cdc48c50793faa7c4d4d2cb9deca"
   },
   "zh:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/zh/perge-2.mp3",
@@ -19651,11 +19616,6 @@
    "bytes": 299092,
    "sha256": "cdeda087d992517a694ce558019cde59a048465a356e17ce255edbbd77746c72"
   },
-  "it:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/it/perge-3.mp3",
-   "bytes": 394805,
-   "sha256": "74e058bbbb27b8774c26a2617dd780c9f9ea819b0a4c256e4b1e034eee6d9b84"
-  },
   "it:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/it/perge-2.mp3",
    "bytes": 301182,
@@ -19675,11 +19635,6 @@
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@82d887aa12957154b88d57a092e42ac7d128ed92/audio/ko/perge-4.mp3",
    "bytes": 379340,
    "sha256": "6327da5395fc244925da121428fffc9fce9b4f49828347d8a30989bd3c1429ec"
-  },
-  "ko:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@82d887aa12957154b88d57a092e42ac7d128ed92/audio/ko/perge-3.mp3",
-   "bytes": 455827,
-   "sha256": "f297bb871975ddd168562a8f12b9f19814a23beb25b69b1e40d8b994c857995d"
   },
   "ko:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@82d887aa12957154b88d57a092e42ac7d128ed92/audio/ko/perge-2.mp3",
@@ -19701,11 +19656,6 @@
    "bytes": 323543,
    "sha256": "b0cccdd03f36824ff78e01345801847b39fb8c53cd93e86d6c6dea9f21502b02"
   },
-  "de:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@32a8a9eef2821837821d48bf5cd619516fec9426/audio/de/perge-3.mp3",
-   "bytes": 404209,
-   "sha256": "1dc5b4a8ba1a1b131d8d142c9e6cbe6da6088b94392bd2c9b8e5b269bd5605ae"
-  },
   "de:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@32a8a9eef2821837821d48bf5cd619516fec9426/audio/de/perge-2.mp3",
    "bytes": 317692,
@@ -19725,11 +19675,6 @@
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/pt/perge-4.mp3",
    "bytes": 255834,
    "sha256": "8c476c98d5a08846a3db2cc2f04bc7d3bd3bc1ff85b9a2889712bb92d686c1dd"
-  },
-  "pt:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/pt/perge-3.mp3",
-   "bytes": 372235,
-   "sha256": "4cc3b0fe13ba7162b2b4301ce12480424c919e2c8a37682048ee617654f8adc2"
   },
   "pt:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/pt/perge-2.mp3",
@@ -19751,11 +19696,6 @@
    "bytes": 284882,
    "sha256": "86b4f7e49f9c5a6176d5272a2ed4dbb834331ff3b300633321dc516e9affc4ee"
   },
-  "ru:perge:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@32a8a9eef2821837821d48bf5cd619516fec9426/audio/ru/perge-3.mp3",
-   "bytes": 321035,
-   "sha256": "1d41b1aa463225511427ef0d43821dcf2c086f3ee3321780a757bae35cb9b28a"
-  },
   "ru:perge:3": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@32a8a9eef2821837821d48bf5cd619516fec9426/audio/ru/perge-2.mp3",
    "bytes": 295122,
@@ -19775,6 +19715,66 @@
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/audio/en/perge-11.mp3",
    "bytes": 349247,
    "sha256": "058cb8ab521363cdc050206f88a1131cc8ba74de39bde0190d43f5ea1c5f720f"
+  },
+  "fr:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/fr/perge-3.mp3",
+   "bytes": 321035,
+   "sha256": "d4255dfadbcecb4808e1417f36d5c8b88d39499f6bda5743c0a811d2a64102e5"
+  },
+  "ko:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@82d887aa12957154b88d57a092e42ac7d128ed92/audio/ko/perge-3.mp3",
+   "bytes": 455827,
+   "sha256": "f297bb871975ddd168562a8f12b9f19814a23beb25b69b1e40d8b994c857995d"
+  },
+  "es:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/es/perge-3.mp3",
+   "bytes": 364921,
+   "sha256": "cef888d5e296bd566cb7e7a5198d0f2018d8d44859e3295a6afe76b6b4b76cb9"
+  },
+  "pt:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/pt/perge-3.mp3",
+   "bytes": 372235,
+   "sha256": "4cc3b0fe13ba7162b2b4301ce12480424c919e2c8a37682048ee617654f8adc2"
+  },
+  "zh:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/zh/perge-3.mp3",
+   "bytes": 338798,
+   "sha256": "5006ecdcfcd9aef333fc8c5fb35870116e89cdc48c50793faa7c4d4d2cb9deca"
+  },
+  "ja:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/ja/perge-3.mp3",
+   "bytes": 490727,
+   "sha256": "25c0bf776641cb40ad5c41e65f5eaebfa67c448025aa674af379371be397d637"
+  },
+  "de:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@32a8a9eef2821837821d48bf5cd619516fec9426/audio/de/perge-3.mp3",
+   "bytes": 404209,
+   "sha256": "1dc5b4a8ba1a1b131d8d142c9e6cbe6da6088b94392bd2c9b8e5b269bd5605ae"
+  },
+  "it:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/it/perge-3.mp3",
+   "bytes": 394805,
+   "sha256": "74e058bbbb27b8774c26a2617dd780c9f9ea819b0a4c256e4b1e034eee6d9b84"
+  },
+  "en:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9e307963bf8152a253f0f444f52b64a0fc139493/audio/en/perge-4.mp3",
+   "bytes": 372026,
+   "sha256": "ad67ebeadb20149fea7d1f0326c7020ae6674f2690d9ec5765b235127c0c602b"
+  },
+  "en:perge:4": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9e307963bf8152a253f0f444f52b64a0fc139493/audio/en/perge-5.mp3",
+   "bytes": 421345,
+   "sha256": "6ecea10ce7435f96abfe45c6b1d324841637da86ae09c2b19d71eed3ee763a4d"
+  },
+  "en:perge:5": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9e307963bf8152a253f0f444f52b64a0fc139493/audio/en/perge-6.mp3",
+   "bytes": 416748,
+   "sha256": "9090d8a3c8e0e3e257297268189fd77c2791a541cef0943c766e47eb15413bc2"
+  },
+  "ru:perge:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@32a8a9eef2821837821d48bf5cd619516fec9426/audio/ru/perge-3.mp3",
+   "bytes": 321035,
+   "sha256": "1d41b1aa463225511427ef0d43821dcf2c086f3ee3321780a757bae35cb9b28a"
   }
  },
  "text": {
