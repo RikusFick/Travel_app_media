@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "commit": "9318155416ed03560fe6e727bb2d59c8ff0cfe51",
  "baseUrl": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9318155416ed03560fe6e727bb2d59c8ff0cfe51/",
  "images": {
@@ -9287,9 +9287,9 @@
    "sha256": "41f58aba0676a3fb52107a3bfec668fff62c6cb0729f73b4aa81a40e2f92b0c1"
   },
   "en:perge:1": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/audio/en/perge-1.mp3",
-   "bytes": 304944,
-   "sha256": "1c00e45f9ba5171f1db2ed2fdd231588c701b439696aa5e3e19b17c56d61bd84"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/audio/en/perge-1.mp3",
+   "bytes": 402119,
+   "sha256": "9e563925ec6b6e76ad4ee778b232dadfc1d21e22507a7271e7ebf3b76c159a6b"
   },
   "en:perge:2": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/audio/en/perge-2.mp3",
@@ -9307,9 +9307,9 @@
    "sha256": "9090d8a3c8e0e3e257297268189fd77c2791a541cef0943c766e47eb15413bc2"
   },
   "en:perge:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/audio/en/perge-5.mp3",
-   "bytes": 302227,
-   "sha256": "4390ab7bc7c0bb0a48827bd0bc25db89aa485e776741dedb5217d29fdbf181da"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/audio/en/perge-5.mp3",
+   "bytes": 323334,
+   "sha256": "b181570d9cf94d788e853a54bdbf8eff325197f896eb5745ca711f7f88b49e70"
   },
   "en:perge:6": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/audio/en/perge-6.mp3",
@@ -19617,9 +19617,9 @@
    "sha256": "1b929bcfbcbc717e137e284e2386b53321676e1001b17d6754c207a8845db697"
   },
   "en:perge:7": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/audio/en/perge-7.mp3",
-   "bytes": 295540,
-   "sha256": "6f8e32ca0d5481b2e40f5c58e86da79b9363ff39977a953eae39336fb252ea8f"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/audio/en/perge-7.mp3",
+   "bytes": 356562,
+   "sha256": "4aa72900e5cbcc344824c016290ae60540535a1c373363b95fcde24801d75c1f"
   },
   "de:perge:5": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@32a8a9eef2821837821d48bf5cd619516fec9426/audio/de/perge-4.mp3",
@@ -19759,49 +19759,49 @@
  },
  "text": {
   "de:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/de/turkey.json",
-   "bytes": 556418,
-   "sha256": "e89fcca94a42077746007b76425ce9786d13b9bcef0bbd487d743f575746d449"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/de/turkey.json",
+   "bytes": 557394,
+   "sha256": "9d2f2a31b54612c852fc3ad41489a86b2383e67aa1b1a147d8755ca4da3fb8e0"
   },
   "fr:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/fr/turkey.json",
-   "bytes": 570780,
-   "sha256": "4355ad1b62c89ed63094d01957a75bd494543aa0b7ffc7c8010e61707c356446"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/fr/turkey.json",
+   "bytes": 571734,
+   "sha256": "2ad87294c640389a55ed3c65fd27bb381e38512c17a8af51ea4e3023eb6d00e0"
   },
   "es:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/es/turkey.json",
-   "bytes": 545190,
-   "sha256": "a291ebb83d44fe9ad1f13e91a135a59691d0c60a8e122497c5b782e7a48dc8b2"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/es/turkey.json",
+   "bytes": 546034,
+   "sha256": "d6aa03b79b394cea59f5e91b141eedb22f4bc7a00efa983c696c81b2b34a9cbc"
   },
   "ru:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/ru/turkey.json",
-   "bytes": 847519,
-   "sha256": "8f0506b7c1736f645c0ae06f4050eac7f9b474d15c7ea722ab8397b379951021"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/ru/turkey.json",
+   "bytes": 848925,
+   "sha256": "a6d502bb354db32f7759d9dcf3de863c81c73dda8b94c5cb6de195c617e8664b"
   },
   "it:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/it/turkey.json",
-   "bytes": 540957,
-   "sha256": "518efa7e10e7c1cf30df5f70175c6210d43efe2324e0e6fef98226fe9779e56e"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/it/turkey.json",
+   "bytes": 541911,
+   "sha256": "08487711424011d1fe57e1c54b7201f0f253bcde7c836adfba6b4dc7c2ae37d5"
   },
   "pt:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/pt/turkey.json",
-   "bytes": 530039,
-   "sha256": "cf153c6cc70e62e231c4a19cbafaa66d69e87fd605db4f3241016b4caeb37cb6"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/pt/turkey.json",
+   "bytes": 530991,
+   "sha256": "602689158c3d6dc850b597eb8d9be8c99b3870e9e260ca784d5ab1ac10f28179"
   },
   "zh:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/zh/turkey.json",
-   "bytes": 483813,
-   "sha256": "1e963720994fe80bb3e75749a2d8c99f18752cd9e4843ef979d09cfb955c2f93"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/zh/turkey.json",
+   "bytes": 484517,
+   "sha256": "3f5366415cf159fdf0d03605981d6064d836b7f779fb0ba6045d2d7744ed3ae8"
   },
   "ja:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/ja/turkey.json",
-   "bytes": 677191,
-   "sha256": "95d46d530bcbdfe4375e77a9f07676b6a2c59daf85f2fea21b49a03a5287b800"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/ja/turkey.json",
+   "bytes": 678237,
+   "sha256": "53e208a69175ee592544a65f3ddcb30f7ba24668a27d6df475eafa705b7c7fbb"
   },
   "ko:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@7f348b0eb939ce8086f24d801c1abd772387be28/text/ko/turkey.json",
-   "bytes": 622139,
-   "sha256": "fcdda9b1eed66586a90b9aa4689b08df81f54e0baeafb216cdab127e1fa2f0e3"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d2c612dbf2c78dd781eaa1a3cc9acaaf01b5fee9/text/ko/turkey.json",
+   "bytes": 623267,
+   "sha256": "510c584cfc834a54bf1bef25072780e404b2e68d9fcef546ccabec8370822c96"
   },
   "de:italy": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d8d47cd1144510d07532d814d03dece64737fa40/text/de/italy.json",
