@@ -245,6 +245,17 @@
      "spokenText": "Este é o estádio de Perge. Bem-vindos a Perge, outrora uma das grandes cidades da Panfília, a planície costeira em torno da atual Antália.\n\nEste estádio longo e estreito é um dos mais bem conservados do mundo antigo. Pensa-se que a sua construção começou na segunda metade do século I d.C. Tem cerca de 234 metros de comprimento, e cerca de 12 000 espectadores sentavam-se ao longo dos seus lados para assistir a corridas e outras competições. As bancadas assentam em filas de abóbadas, e pensa-se que muitas delas eram lojas ou oficinas, por isso um dia de jogos trazia também um mercado debaixo das bancadas.\n\nA lenda grega diz que Perge foi fundada depois da Guerra de Troia por dois famosos videntes, Mopso e Calcas. O que se vê hoje, porém, é sobretudo uma cidade romana, construída na sua época de ouro, nos séculos II e III d.C."
     },
     "2": {
+     "title": "O teatro",
+     "where": "Na estrada de acesso, junto ao teatro construído na encosta a oeste da estrada, a pouca distância do estádio.",
+     "paragraphs": [
+      "Esta grande concha de bancadas é o teatro de Perge, assente na encosta de uma colina junto à estrada de acesso. A plateia é um pouco maior do que um semicírculo e mede cerca de 113 metros de diâmetro. As bancadas acolhiam entre catorze e quinze mil pessoas, em dois níveis separados por um corredor, e no topo corria uma galeria em arcos.",
+      "Em frente às bancadas erguia-se o edifício de cena, com dois pisos de altura e construído no século II d.C. Era ricamente decorado, e relevos ao longo do palco contavam histórias de Dioniso, o deus do vinho e do teatro. Muitas das estátuas e relevos do teatro estão hoje no Museu de Antália, que lhes dedica uma sala inteira.",
+      "Mais tarde, na época romana, a orquestra diante do palco foi transformada numa arena, e os gladiadores combateram onde antes atuavam os atores."
+     ],
+     "funFact": null,
+     "spokenText": "Esta grande concha de bancadas é o teatro de Perge, assente na encosta de uma colina junto à estrada de acesso. A plateia é um pouco maior do que um semicírculo e mede cerca de 113 metros de diâmetro. As bancadas acolhiam entre catorze e quinze mil pessoas, em dois níveis separados por um corredor, e no topo corria uma galeria em arcos.\n\nEm frente às bancadas erguia-se o edifício de cena, com dois pisos de altura e construído no século II d.C. Era ricamente decorado, e relevos ao longo do palco contavam histórias de Dioniso, o deus do vinho e do teatro. Muitas das estátuas e relevos do teatro estão hoje no Museu de Antália, que lhes dedica uma sala inteira.\n\nMais tarde, na época romana, a orquestra diante do palco foi transformada numa arena, e os gladiadores combateram onde antes atuavam os atores."
+    },
+    "3": {
      "title": "Uma mulher notável",
      "where": "Do lado de fora da porta romana nas muralhas, perto do túmulo de Plancia Magna.",
      "paragraphs": [
@@ -255,7 +266,7 @@
      "funFact": null,
      "spokenText": "Aqui está o túmulo de Plancia Magna, logo fora das muralhas, como era costume romano. Ela foi a cidadã mais famosa da Perge romana, e era uma mulher.\n\nViveu no início do século II d.C. O pai era senador romano, e a família dizia ter ascendência real. Num mundo governado por homens, Plancia Magna ocupou alguns dos cargos mais altos da sua cidade. Foi sacerdotisa de Ártemis, a deusa da cidade, sumo-sacerdotisa do culto dos imperadores e magistrada da cidade. Era também enormemente rica, e gastou a sua fortuna em Perge.\n\nA sua maior oferta fica logo depois da porta."
     },
-    "3": {
+    "4": {
      "title": "A porta helenística",
      "where": "No pátio em forma de ferradura entre as duas altas torres redondas da porta helenística.",
      "paragraphs": [
@@ -266,7 +277,7 @@
      "funFact": null,
      "spokenText": "Estas duas torres redondas da porta helenística são o símbolo de Perge. Foram construídas no século III a.C., no período helenístico, quando Perge era uma cidade grega.\n\nNo tempo do imperador Adriano, Plancia Magna pagou a transformação do pátio por trás delas numa grandiosa entrada cerimonial. As paredes foram revestidas de mármore e, em nichos, erguiam-se estátuas dos deuses, dos lendários fundadores da cidade, Mopso e Calcas, e da família do imperador. Aqui foram encontradas inscrições com o seu nome, e também a sua estátua. Quem chegava aqui na época romana atravessava uma galeria de figuras de mármore que deixava bem claro a quem pertencia esta cidade.\n\nAs estátuas já não estão aqui; muitas esculturas de Perge encontram-se hoje no Museu de Antália, famoso precisamente por elas."
     },
-    "4": {
+    "5": {
      "title": "O Propileu",
      "where": "Entre a porta romana e as torres redondas, em frente à fachada leste das Termas do Sul, junto à entrada monumental (propileu).",
      "paragraphs": [
@@ -278,7 +289,7 @@
      "funFact": null,
      "spokenText": "Esta entrada monumental é o Propileu, a grande porta do lado leste das Termas do Sul. Foi construído entre 197 e 211 d.C., no tempo do imperador Septímio Severo.\n\nNessa época, o pátio oval que fica aqui, diante das torres helenísticas, foi remodelado, e o Propileu foi acrescentado nessa reforma. A sua função era embelezar a simples fachada leste das termas, e foi desenhado de forma perfeitamente simétrica.\n\nA porta assenta numa plataforma de dois degraus, revestida de mármore. Sobre ela erguiam-se colunas lisas de granito, assentes em pedestais quadrados e coroadas por capitéis coríntios esculpidos com folhas. A parte superior era decorada com relevos de motivos geométricos e florais.\n\nOs arqueólogos concluíram a sua escavação em 1969. Quem vinha tomar banho passava primeiro por uma moldura de mármore."
     },
-    "5": {
+    "6": {
      "title": "As Termas do Sul",
      "where": "No grande complexo termal logo a oeste da porta helenística, entre altas paredes de tijolo e pedra; abaixo do nível do chão, veem-se os curtos pilares de tijolo do aquecimento.",
      "paragraphs": [
@@ -289,7 +300,7 @@
      "funFact": null,
      "spokenText": "Estas altas paredes pertencem às Termas do Sul, um dos edifícios mais bem conservados de Perge e um dos maiores complexos termais de toda a Panfília.\n\nAs salas ficam lado a lado, para que os banhistas pudessem passar de uma para outra à vontade: um vestiário, um banho frio com piscina, uma sala morna, uma sala quente e um pátio aberto para exercício. Em algumas salas vê-se o hipocausto, o sistema de aquecimento. Os pavimentos assentavam em curtos pilares de tijolo, e o ar quente das fornalhas circulava pelo espaço por baixo, aquecendo o chão e as paredes.\n\nUmas termas romanas eram muito mais do que um lugar para lavar-se. Tal como um ginásio grego, tinham também salas para conversar e aprender. Aqui, uma longa sala estava ladeada de estátuas oferecidas por um cidadão chamado Klaudios Peison, cujo nome foi gravado nos pedestais. O edifício foi ampliado e alterado ao longo de quatro séculos, do século I ao século V d.C."
     },
-    "6": {
+    "7": {
      "title": "A ágora",
      "where": "Junto ao edifício quadrado do mercado (ágora), logo a leste da porta helenística.",
      "paragraphs": [
@@ -300,7 +311,7 @@
      "funFact": null,
      "spokenText": "Esta é a ágora, o mercado de Perge. As lojas abriam-se para as colunatas à sua volta. É um quadrado com cerca de 65 metros de lado.\n\nMuito antes dos romanos, Perge já sabia lidar com visitantes poderosos. Quando Alexandre, o Grande, marchou ao longo desta costa, Perge abriu-lhe as portas e chegou a fornecer guias ao seu exército.\n\nO filho mais famoso da cidade não foi um soldado, mas um matemático: Apolónio de Perge, nascido no século III a.C. Era conhecido como \"o Grande Geómetra\". As palavras elipse, parábola e hipérbole são os nomes que ele deu a estas curvas no seu livro sobre as secções cónicas."
     },
-    "7": {
+    "8": {
      "title": "A rua das colunatas",
      "where": "Na rua principal das colunatas, junto ao canal de água de pedra que corre pelo meio.",
      "paragraphs": [
@@ -311,7 +322,29 @@
      "funFact": null,
      "spokenText": "Esta é a rua das colunatas, com o seu canal de pedra ao meio. Esse canal trazia outrora água fresca ao longo de toda a rua. Alimentava as fontes e os banhos da cidade e refrescava o ar nos dias quentes de verão. O sistema de água de Perge é uma das razões da fama da cidade.\n\nDos dois lados havia colunatas e lojas, e o traçado das ruas é dos mais regulares de qualquer cidade romana.\n\nPor aqui passou também um apóstolo. Segundo os Atos dos Apóstolos, na Bíblia, São Paulo veio a Perge com Barnabé na sua primeira viagem missionária e, no regresso, pregou aqui. Um trilho pedestre de longa distância com o seu nome, o Caminho de São Paulo, começa aqui e segue para o interior ao longo de cerca de quinhentos quilómetros."
     },
-    "8": {
+    "9": {
+     "title": "O cruzamento",
+     "where": "No cruzamento perto do topo da rua com colunatas, onde a rua oeste segue para a esquerda.",
+     "paragraphs": [
+      "Este cruzamento é o coração da malha urbana de Perge: aqui a rua principal com colunatas encontra a grande rua oeste. As duas ruas cruzavam-se no centro da cidade e dividiam-na em quatro bairros, e ambas tinham um canal de água a correr pelo meio.",
+      "Sobre o cruzamento erguia-se um arco triunfal, construído por volta do ano 80 d.C. e pago por dois cidadãos importantes, Demétrio e Apolónio, cuja dedicatória estava gravada no topo. Restam apenas fragmentos, mas a partir desses blocos esculpidos os arqueólogos conseguiram reconstituir o seu aspeto original.",
+      "Ladeada de colunas, a rua oeste levava a uma porta na muralha ocidental. Para lá dessa porta ficava o principal cemitério de Perge, a necrópole oeste. Muitos dos mais belos sarcófagos hoje no Museu de Antália foram encontrados ali."
+     ],
+     "funFact": null,
+     "spokenText": "Este cruzamento é o coração da malha urbana de Perge: aqui a rua principal com colunatas encontra a grande rua oeste. As duas ruas cruzavam-se no centro da cidade e dividiam-na em quatro bairros, e ambas tinham um canal de água a correr pelo meio.\n\nSobre o cruzamento erguia-se um arco triunfal, construído por volta do ano 80 d.C. e pago por dois cidadãos importantes, Demétrio e Apolónio, cuja dedicatória estava gravada no topo. Restam apenas fragmentos, mas a partir desses blocos esculpidos os arqueólogos conseguiram reconstituir o seu aspeto original.\n\nLadeada de colunas, a rua oeste levava a uma porta na muralha ocidental. Para lá dessa porta ficava o principal cemitério de Perge, a necrópole oeste. Muitos dos mais belos sarcófagos hoje no Museu de Antália foram encontrados ali."
+    },
+    "10": {
+     "title": "A palestra de Cornuto",
+     "where": "Junto ao grande edifício quadrado, no lado norte da rua oeste.",
+     "paragraphs": [
+      "Este grande edifício quadrado é a palestra de Cornuto, um dos mais antigos edifícios romanos dentro das muralhas. Uma palestra era um espaço de exercício: um pátio ao ar livre para a luta, a corrida e o treino, rodeado de salas para mudar de roupa e para estudar. Há quem lhe chame também o ginásio de Perge.",
+      "Cada lado mede cerca de 76 metros. Um cidadão rico, Caio Júlio Cornuto, pagou a sua construção em meados do século I d.C. e dedicou-a ao imperador Cláudio. A água fresca chegava por um aqueduto.",
+      "A palestra fica perto do ponto de encontro das duas ruas principais da cidade. Os arqueólogos pensam que esta zona foi outrora a praça do mercado da cidade helenística, antes de Perge crescer para sul e construir a nova ágora junto às portas. Para os jovens da Perge romana, era aqui que se treinavam juntos o corpo e a mente."
+     ],
+     "funFact": null,
+     "spokenText": "Este grande edifício quadrado é a palestra de Cornuto, um dos mais antigos edifícios romanos dentro das muralhas. Uma palestra era um espaço de exercício: um pátio ao ar livre para a luta, a corrida e o treino, rodeado de salas para mudar de roupa e para estudar. Há quem lhe chame também o ginásio de Perge.\n\nCada lado mede cerca de 76 metros. Um cidadão rico, Caio Júlio Cornuto, pagou a sua construção em meados do século I d.C. e dedicou-a ao imperador Cláudio. A água fresca chegava por um aqueduto.\n\nA palestra fica perto do ponto de encontro das duas ruas principais da cidade. Os arqueólogos pensam que esta zona foi outrora a praça do mercado da cidade helenística, antes de Perge crescer para sul e construir a nova ágora junto às portas. Para os jovens da Perge romana, era aqui que se treinavam juntos o corpo e a mente."
+    },
+    "11": {
      "title": "A fonte de Adriano",
      "where": "No topo da rua das colunatas, diante da fonte monumental (ninfeu) no sopé da colina da acrópole.",
      "paragraphs": [

@@ -245,6 +245,17 @@
      "spokenText": "Accanto a Lei c'è lo stadio di Perge. Benvenuti a Perge, un tempo una delle grandi città della Panfilia, la pianura costiera intorno all'odierna Antalya.\n\nQuesto stadio lungo e stretto è uno dei meglio conservati del mondo antico. Si ritiene che la sua costruzione sia iniziata nella seconda metà del I secolo d.C. È lungo circa 234 metri, e circa 12.000 spettatori sedevano lungo i suoi lati per assistere a gare di corsa e altre competizioni. Le gradinate poggiano su file di volte ad arco, e molte di queste volte erano probabilmente botteghe o laboratori: una giornata ai giochi era anche una giornata al mercato, sotto le tribune.\n\nLa leggenda greca narra che Perge fu fondata dopo la guerra di Troia da due celebri indovini, Mopso e Calcante. Ciò che si vede oggi, però, è soprattutto una città romana, costruita nella sua età d'oro, tra il II e il III secolo d.C."
     },
     "2": {
+     "title": "Il teatro",
+     "where": "Sulla strada d'accesso, accanto al teatro costruito sul pendio a ovest della strada, poco lontano dallo stadio.",
+     "paragraphs": [
+      "Questa grande conca di gradinate è il teatro di Perge, addossato al fianco di una collina accanto alla strada d'accesso. La cavea è poco più ampia di un semicerchio e misura circa 113 metri di diametro. Le gradinate accoglievano tra quattordici e quindicimila persone, su due ordini separati da un corridoio, e in cima correva una galleria ad archi.",
+      "Di fronte ai posti si ergeva l'edificio scenico, alto due piani e costruito nel II secolo d.C. Era riccamente decorato, e i rilievi lungo il palco raccontavano storie di Dioniso, dio del vino e del teatro. Molte statue e rilievi del teatro si trovano oggi al Museo di Antalya, che dedica loro un'intera sala.",
+      "Più tardi, in età romana, l'orchestra davanti al palco fu trasformata in arena, e i gladiatori combatterono dove un tempo recitavano gli attori."
+     ],
+     "funFact": null,
+     "spokenText": "Questa grande conca di gradinate è il teatro di Perge, addossato al fianco di una collina accanto alla strada d'accesso. La cavea è poco più ampia di un semicerchio e misura circa 113 metri di diametro. Le gradinate accoglievano tra quattordici e quindicimila persone, su due ordini separati da un corridoio, e in cima correva una galleria ad archi.\n\nDi fronte ai posti si ergeva l'edificio scenico, alto due piani e costruito nel II secolo d.C. Era riccamente decorato, e i rilievi lungo il palco raccontavano storie di Dioniso, dio del vino e del teatro. Molte statue e rilievi del teatro si trovano oggi al Museo di Antalya, che dedica loro un'intera sala.\n\nPiù tardi, in età romana, l'orchestra davanti al palco fu trasformata in arena, e i gladiatori combatterono dove un tempo recitavano gli attori."
+    },
+    "3": {
      "title": "Una donna straordinaria",
      "where": "Fuori dalla porta romana nelle mura della città, vicino alla tomba di Plancia Magna.",
      "paragraphs": [
@@ -255,7 +266,7 @@
      "funFact": null,
      "spokenText": "Appena fuori dalle mura, come voleva l'usanza romana, si trova la tomba di Plancia Magna, la cittadina più famosa della Perge romana. Sì, una donna.\n\nVisse all'inizio del II secolo d.C. Suo padre era un senatore romano, e la sua famiglia vantava discendenza regale. In un mondo governato dagli uomini, Plancia Magna ricoprì alcune delle cariche più alte della sua città. Fu sacerdotessa di Artemide, la dea della città, gran sacerdotessa del culto imperiale e magistrato cittadino. Era anche enormemente ricca, e spese il suo denaro per Perge.\n\nIl suo dono più grande si trova appena oltre la porta."
     },
-    "3": {
+    "4": {
      "title": "La porta ellenistica",
      "where": "Nel cortile a ferro di cavallo tra le due alte torri rotonde della porta ellenistica.",
      "paragraphs": [
@@ -266,7 +277,7 @@
      "funFact": null,
      "spokenText": "Queste due torri rotonde della porta ellenistica sono il simbolo di Perge. Furono costruite nel III secolo a.C., in età ellenistica, quando Perge era una città greca.\n\nAll'epoca dell'imperatore Adriano, Plancia Magna finanziò la trasformazione del cortile alle loro spalle in un grandioso ingresso cerimoniale. Le pareti erano rivestite di marmo, e nelle nicchie si trovavano statue degli dèi, dei leggendari fondatori della città, Mopso e Calcante, e della famiglia dell'imperatore. Qui furono trovate iscrizioni con il suo nome, e anche la sua statua. Chi arrivava qui in epoca romana attraversava una galleria di figure di marmo che dicevano chiaramente di chi fosse questa città.\n\nLe statue non sono più qui; molte sculture di Perge si trovano ora nel Museo di Antalya, famoso proprio per esse."
     },
-    "4": {
+    "5": {
      "title": "Il Propileo",
      "where": "Tra la porta romana e le torri rotonde, davanti alla facciata est delle Terme Meridionali, accanto all'ingresso monumentale (propileo).",
      "paragraphs": [
@@ -278,7 +289,7 @@
      "funFact": null,
      "spokenText": "Questo ingresso monumentale è il Propileo, la grande porta sul lato est delle Terme Meridionali. Fu costruito tra il 197 e il 211 d.C., sotto l'imperatore Settimio Severo.\n\nIn quel periodo il cortile ovale qui, davanti alle torri ellenistiche, fu ridisegnato, e il Propileo venne aggiunto nell'ambito di quei lavori. Il suo compito era abbellire la semplice facciata est delle terme, e fu progettato in modo perfettamente simmetrico.\n\nLa porta poggia su una piattaforma a due gradini, rivestita di marmo. Su di essa si ergevano colonne lisce di granito, su piedistalli quadrati e coronate da capitelli corinzi scolpiti a foglie. La parte superiore era decorata con rilievi a motivi geometrici e floreali.\n\nGli archeologi ne completarono lo scavo nel 1969. Chiunque venisse qui a fare il bagno passava prima attraverso una cornice di marmo."
     },
-    "5": {
+    "6": {
      "title": "Le Terme Meridionali",
      "where": "Nel grande complesso termale appena a ovest della porta ellenistica, tra alti muri di mattoni e pietra; sotto il livello del pavimento si vedono i bassi pilastrini di mattoni del riscaldamento.",
      "paragraphs": [
@@ -289,7 +300,7 @@
      "funFact": null,
      "spokenText": "Questi alti muri appartengono alle Terme Meridionali, uno degli edifici meglio conservati di Perge e uno dei più grandi complessi termali di tutta la Panfilia.\n\nLe sale si susseguono una accanto all'altra, così che i bagnanti potevano passare dall'una all'altra a piacere: uno spogliatoio, un bagno freddo con piscina, una sala tiepida, una sala calda e un cortile aperto per gli esercizi. In alcune sale si vede l'ipocausto, il sistema di riscaldamento. I pavimenti poggiavano su bassi pilastrini di mattoni, e l'aria calda dei forni scorreva nello spazio sottostante, scaldando pavimenti e pareti.\n\nLe terme romane erano molto più di un luogo per lavarsi. Come un ginnasio greco, avevano anche sale per conversare e studiare. Qui una lunga sala era fiancheggiata da statue donate da un cittadino di nome Klaudios Peison, il cui nome era inciso sulle basi. L'edificio fu ampliato e modificato nel corso di quattro secoli, dal I al V secolo d.C."
     },
-    "6": {
+    "7": {
      "title": "L'agorà",
      "where": "Accanto all'edificio quadrato del mercato (agorà), appena a est della porta ellenistica.",
      "paragraphs": [
@@ -300,7 +311,7 @@
      "funFact": null,
      "spokenText": "Questa piazza era l'agorà, il mercato di Perge. Tutt'intorno, le botteghe si aprivano sotto i portici. È un quadrato di circa 65 metri di lato.\n\nMolto prima dei Romani, Perge sapeva già come trattare con i visitatori potenti. Quando Alessandro Magno marciò lungo questa costa, Perge gli aprì le porte e fornì persino guide al suo esercito.\n\nIl figlio più famoso della città non fu un soldato ma un matematico: Apollonio di Perge, nato nel III secolo a.C. Era noto come \"il Grande Geometra\". Chi ha sentito parlare di ellisse, parabola o iperbole ha usato i nomi che egli diede a queste curve nel suo libro sulle sezioni coniche."
     },
-    "7": {
+    "8": {
      "title": "La via colonnata",
      "where": "Sulla via colonnata principale, accanto al canale di pietra per l'acqua che corre al centro.",
      "paragraphs": [
@@ -311,7 +322,29 @@
      "funFact": null,
      "spokenText": "Al centro della via colonnata corre un canale di pietra che un tempo portava acqua fresca lungo tutta la strada. Alimentava le fontane e le terme della città, e rinfrescava l'aria nelle calde giornate estive. Il sistema idrico di Perge è uno dei motivi della fama della città.\n\nSu entrambi i lati c'erano portici e botteghe, e la pianta della strada è una delle più regolari di qualsiasi città romana.\n\nQuesta via ripercorre anche le orme di un apostolo. Secondo gli Atti degli Apostoli, San Paolo venne a Perge con Barnaba durante il suo primo viaggio missionario, e al ritorno predicò qui. Un sentiero escursionistico a lunga percorrenza che porta il suo nome, la Via di San Paolo, parte da qui e si inoltra nell'entroterra per circa cinquecento chilometri."
     },
-    "8": {
+    "9": {
+     "title": "Il crocevia",
+     "where": "Al crocevia vicino all'estremità superiore della via colonnata, dove la via occidentale si stacca verso sinistra.",
+     "paragraphs": [
+      "Questo crocevia è il cuore della rete stradale di Perge: qui la via colonnata principale incontra la grande via occidentale. Le due strade si incrociavano al centro della città e la dividevano in quattro quartieri, ed entrambe avevano un canale d'acqua al centro.",
+      "Sopra l'incrocio sorgeva un arco trionfale, costruito intorno all'80 d.C. e pagato da due cittadini illustri, Demetrio e Apollonio, la cui dedica era incisa sulla sommità. Ne restano solo frammenti, ma da quei blocchi scolpiti gli archeologi hanno potuto ricostruire il suo aspetto originale.",
+      "Fiancheggiata da colonne, la via occidentale conduceva a una porta nelle mura occidentali. Oltre quella porta si stendeva il cimitero principale di Perge, la necropoli occidentale. Lì sono stati trovati molti dei sarcofagi più belli oggi conservati al Museo di Antalya."
+     ],
+     "funFact": null,
+     "spokenText": "Questo crocevia è il cuore della rete stradale di Perge: qui la via colonnata principale incontra la grande via occidentale. Le due strade si incrociavano al centro della città e la dividevano in quattro quartieri, ed entrambe avevano un canale d'acqua al centro.\n\nSopra l'incrocio sorgeva un arco trionfale, costruito intorno all'80 d.C. e pagato da due cittadini illustri, Demetrio e Apollonio, la cui dedica era incisa sulla sommità. Ne restano solo frammenti, ma da quei blocchi scolpiti gli archeologi hanno potuto ricostruire il suo aspetto originale.\n\nFiancheggiata da colonne, la via occidentale conduceva a una porta nelle mura occidentali. Oltre quella porta si stendeva il cimitero principale di Perge, la necropoli occidentale. Lì sono stati trovati molti dei sarcofagi più belli oggi conservati al Museo di Antalya."
+    },
+    "10": {
+     "title": "La palestra di Cornuto",
+     "where": "Accanto al grande edificio quadrato, sul lato nord della via occidentale.",
+     "paragraphs": [
+      "Questo grande edificio quadrato è la palestra di Cornuto, uno dei più antichi edifici romani dentro le mura. Una palestra era un luogo di esercizio: un cortile all'aperto per la lotta, la corsa e l'allenamento, circondato da ambienti per cambiarsi e per studiare. C'è chi lo chiama anche il ginnasio di Perge.",
+      "Ogni lato misura circa 76 metri. Un ricco cittadino, Gaio Giulio Cornuto, lo fece costruire verso la metà del I secolo d.C. e lo dedicò all'imperatore Claudio. L'acqua fresca arrivava tramite un acquedotto.",
+      "La palestra si trova vicino al punto d'incontro delle due vie principali della città. Gli archeologi ritengono che quest'area fosse un tempo la piazza del mercato della città ellenistica, prima che Perge si estendesse verso sud e costruisse la nuova agorà vicino alle porte. Per i giovani della Perge romana, qui si allenavano insieme il corpo e la mente."
+     ],
+     "funFact": null,
+     "spokenText": "Questo grande edificio quadrato è la palestra di Cornuto, uno dei più antichi edifici romani dentro le mura. Una palestra era un luogo di esercizio: un cortile all'aperto per la lotta, la corsa e l'allenamento, circondato da ambienti per cambiarsi e per studiare. C'è chi lo chiama anche il ginnasio di Perge.\n\nOgni lato misura circa 76 metri. Un ricco cittadino, Gaio Giulio Cornuto, lo fece costruire verso la metà del I secolo d.C. e lo dedicò all'imperatore Claudio. L'acqua fresca arrivava tramite un acquedotto.\n\nLa palestra si trova vicino al punto d'incontro delle due vie principali della città. Gli archeologi ritengono che quest'area fosse un tempo la piazza del mercato della città ellenistica, prima che Perge si estendesse verso sud e costruisse la nuova agorà vicino alle porte. Per i giovani della Perge romana, qui si allenavano insieme il corpo e la mente."
+    },
+    "11": {
      "title": "La fontana di Adriano",
      "where": "In cima alla via colonnata, davanti alla fontana monumentale (ninfeo) ai piedi della collina dell'acropoli.",
      "paragraphs": [
