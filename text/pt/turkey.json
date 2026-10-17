@@ -267,6 +267,18 @@
      "spokenText": "Estas duas torres redondas da porta helenística são o símbolo de Perge. Foram construídas no século III a.C., no período helenístico, quando Perge era uma cidade grega.\n\nNo tempo do imperador Adriano, Plancia Magna pagou a transformação do pátio por trás delas numa grandiosa entrada cerimonial. As paredes foram revestidas de mármore e, em nichos, erguiam-se estátuas dos deuses, dos lendários fundadores da cidade, Mopso e Calcas, e da família do imperador. Aqui foram encontradas inscrições com o seu nome, e também a sua estátua. Quem chegava aqui na época romana atravessava uma galeria de figuras de mármore que deixava bem claro a quem pertencia esta cidade.\n\nAs estátuas já não estão aqui; muitas esculturas de Perge encontram-se hoje no Museu de Antália, famoso precisamente por elas."
     },
     "4": {
+     "title": "O Propileu",
+     "where": "Entre a porta romana e as torres redondas, em frente à fachada leste das Termas do Sul, junto à entrada monumental (propileu).",
+     "paragraphs": [
+      "Esta entrada monumental é o Propileu, a grande porta do lado leste das Termas do Sul. Foi construído entre 197 e 211 d.C., no tempo do imperador Septímio Severo.",
+      "Nessa época, o pátio oval que fica aqui, diante das torres helenísticas, foi remodelado, e o Propileu foi acrescentado nessa reforma. A sua função era embelezar a simples fachada leste das termas, e foi desenhado de forma perfeitamente simétrica.",
+      "A porta assenta numa plataforma de dois degraus, revestida de mármore. Sobre ela erguiam-se colunas lisas de granito, assentes em pedestais quadrados e coroadas por capitéis coríntios esculpidos com folhas. A parte superior era decorada com relevos de motivos geométricos e florais.",
+      "Os arqueólogos concluíram a sua escavação em 1969. Quem vinha tomar banho passava primeiro por uma moldura de mármore."
+     ],
+     "funFact": null,
+     "spokenText": "Esta entrada monumental é o Propileu, a grande porta do lado leste das Termas do Sul. Foi construído entre 197 e 211 d.C., no tempo do imperador Septímio Severo.\n\nNessa época, o pátio oval que fica aqui, diante das torres helenísticas, foi remodelado, e o Propileu foi acrescentado nessa reforma. A sua função era embelezar a simples fachada leste das termas, e foi desenhado de forma perfeitamente simétrica.\n\nA porta assenta numa plataforma de dois degraus, revestida de mármore. Sobre ela erguiam-se colunas lisas de granito, assentes em pedestais quadrados e coroadas por capitéis coríntios esculpidos com folhas. A parte superior era decorada com relevos de motivos geométricos e florais.\n\nOs arqueólogos concluíram a sua escavação em 1969. Quem vinha tomar banho passava primeiro por uma moldura de mármore."
+    },
+    "5": {
      "title": "As Termas do Sul",
      "where": "No grande complexo termal logo a oeste da porta helenística, entre altas paredes de tijolo e pedra; abaixo do nível do chão, veem-se os curtos pilares de tijolo do aquecimento.",
      "paragraphs": [
@@ -277,7 +289,7 @@
      "funFact": null,
      "spokenText": "Estas altas paredes pertencem às Termas do Sul, um dos edifícios mais bem conservados de Perge e um dos maiores complexos termais de toda a Panfília.\n\nAs salas ficam lado a lado, para que os banhistas pudessem passar de uma para outra à vontade: um vestiário, um banho frio com piscina, uma sala morna, uma sala quente e um pátio aberto para exercício. Em algumas salas vê-se o hipocausto, o sistema de aquecimento. Os pavimentos assentavam em curtos pilares de tijolo, e o ar quente das fornalhas circulava pelo espaço por baixo, aquecendo o chão e as paredes.\n\nUmas termas romanas eram muito mais do que um lugar para lavar-se. Tal como um ginásio grego, tinham também salas para conversar e aprender. Aqui, uma longa sala estava ladeada de estátuas oferecidas por um cidadão chamado Klaudios Peison, cujo nome foi gravado nos pedestais. O edifício foi ampliado e alterado ao longo de quatro séculos, do século I ao século V d.C."
     },
-    "5": {
+    "6": {
      "title": "A ágora",
      "where": "Junto ao edifício quadrado do mercado (ágora), logo a leste da porta helenística.",
      "paragraphs": [
@@ -288,7 +300,7 @@
      "funFact": null,
      "spokenText": "Esta é a ágora, o mercado de Perge. As lojas abriam-se para as colunatas à sua volta. É um quadrado com cerca de 65 metros de lado.\n\nMuito antes dos romanos, Perge já sabia lidar com visitantes poderosos. Quando Alexandre, o Grande, marchou ao longo desta costa, Perge abriu-lhe as portas e chegou a fornecer guias ao seu exército.\n\nO filho mais famoso da cidade não foi um soldado, mas um matemático: Apolónio de Perge, nascido no século III a.C. Era conhecido como \"o Grande Geómetra\". As palavras elipse, parábola e hipérbole são os nomes que ele deu a estas curvas no seu livro sobre as secções cónicas."
     },
-    "6": {
+    "7": {
      "title": "A rua das colunatas",
      "where": "Na rua principal das colunatas, junto ao canal de água de pedra que corre pelo meio.",
      "paragraphs": [
@@ -299,7 +311,7 @@
      "funFact": null,
      "spokenText": "Esta é a rua das colunatas, com o seu canal de pedra ao meio. Esse canal trazia outrora água fresca ao longo de toda a rua. Alimentava as fontes e os banhos da cidade e refrescava o ar nos dias quentes de verão. O sistema de água de Perge é uma das razões da fama da cidade.\n\nDos dois lados havia colunatas e lojas, e o traçado das ruas é dos mais regulares de qualquer cidade romana.\n\nPor aqui passou também um apóstolo. Segundo os Atos dos Apóstolos, na Bíblia, São Paulo veio a Perge com Barnabé na sua primeira viagem missionária e, no regresso, pregou aqui. Um trilho pedestre de longa distância com o seu nome, o Caminho de São Paulo, começa aqui e segue para o interior ao longo de cerca de quinhentos quilómetros."
     },
-    "7": {
+    "8": {
      "title": "A fonte de Adriano",
      "where": "No topo da rua das colunatas, diante da fonte monumental (ninfeu) no sopé da colina da acrópole.",
      "paragraphs": [
