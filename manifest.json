@@ -1,5 +1,5 @@
 {
- "version": 15,
+ "version": 16,
  "commit": "9318155416ed03560fe6e727bb2d59c8ff0cfe51",
  "baseUrl": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9318155416ed03560fe6e727bb2d59c8ff0cfe51/",
  "images": {
@@ -8422,9 +8422,9 @@
    "sha256": "6f5e76f6d81b3981545d9418b8bc60e3919beb5076d70798f8bfe7c476624c5d"
   },
   "en:antalya-kaleici:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/antalya-kaleici-5.mp3",
-   "bytes": 211948,
-   "sha256": "1fa1096c0ba5489cec157a05e100f7f371282de61449fcea893e1adbf803ae36"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/antalya-kaleici-5.mp3",
+   "bytes": 175585,
+   "sha256": "04ea90015dc6bc6ba7c4c7667cc663a491d6b387c44dbf62dc140605b9a67dd6"
   },
   "en:aphrodisias:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/aphrodisias-1.mp3",
@@ -8477,9 +8477,9 @@
    "sha256": "54df19b585290e661832ef305a671fb7032029201493db736883ab08321b2916"
   },
   "en:aspendos:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/aspendos-5.mp3",
-   "bytes": 382475,
-   "sha256": "f3383b7afdd951a1a9fa7809da61bf27beaea3d442e50849942a0ce1fad16a2c"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/aspendos-5.mp3",
+   "bytes": 393969,
+   "sha256": "05330c7e9764757f9c055b683581480bb73006281fac0ac265e124ba70bd0e11"
   },
   "en:avanos:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/avanos-1.mp3",
@@ -8512,9 +8512,9 @@
    "sha256": "82d78ff4db5bd6c9c14d6753a51f062345c31bc2f65a28ba0b132b278a027565"
   },
   "en:basilica-cistern:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/basilica-cistern-5.mp3",
-   "bytes": 394387,
-   "sha256": "e635b3c5232009f21d37c4a5c5c320c93f0b0b144966309ea1263ba4f0a274a9"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/basilica-cistern-5.mp3",
+   "bytes": 375579,
+   "sha256": "fe5a9829a10632e08bd315ed8730ad49b03646dd0e22d267cdce53307a1d3751"
   },
   "en:blue-mosque:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/blue-mosque-1.mp3",
@@ -8552,9 +8552,9 @@
    "sha256": "ce6ef6624b317ee813816daeaea4eb0eaa98e1df23f3280631be9e8af21ad9cd"
   },
   "en:blue-mosque:8": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/blue-mosque-8.mp3",
-   "bytes": 543807,
-   "sha256": "c794500d098a59763b23d0544c232a8a787ec0dad43eebdd576d8c20fcc4638d"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/blue-mosque-8.mp3",
+   "bytes": 505773,
+   "sha256": "e94d64225cbe199196b9271270730fe88213690a31916e7e50c7b53f9547bd8c"
   },
   "en:bodrum-castle:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/bodrum-castle-1.mp3",
@@ -8577,9 +8577,9 @@
    "sha256": "0bd40bd95daa52ce9ccdd2c1e8a22dd9b3a01e49bc3ab5f82930aff3fd9061d8"
   },
   "en:bodrum-castle:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/bodrum-castle-5.mp3",
-   "bytes": 333156,
-   "sha256": "ce6499d93cc468831030c9ffeeb871794593f3084725ad71aede315b1b1eccd1"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/bodrum-castle-5.mp3",
+   "bytes": 351755,
+   "sha256": "84e287815dfeeeb3af3f87832d4a2c0dd4104bd60ee8562333c074b1541874c1"
   },
   "en:bosphorus-cruise:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/bosphorus-cruise-1.mp3",
@@ -8647,9 +8647,9 @@
    "sha256": "37be7cc93c464f8679c6b3f2e5397e489ad0de4cdabd93c96e0457f03e1c0151"
   },
   "en:cappadocia-valleys-uchisar:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/cappadocia-valleys-uchisar-5.mp3",
-   "bytes": 304944,
-   "sha256": "f9e5ca54de901b0223773fd77f236faebc928e1f3d2e0cc0f852254828a1d021"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/cappadocia-valleys-uchisar-5.mp3",
+   "bytes": 278612,
+   "sha256": "6d8db39b29c9761f989fd765a8b456dcee10ed3b51a3a5a6173e4a026b8e3dd3"
   },
   "en:cavusin:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/cavusin-1.mp3",
@@ -8687,9 +8687,9 @@
    "sha256": "a47af8cbbb8f4ef09bcf73abffda6d93293142b0864de07f0a1fde5820355ab8"
   },
   "en:derinkuyu-underground-city:6": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/derinkuyu-underground-city-6.mp3",
-   "bytes": 588529,
-   "sha256": "03f77951e5a72bd25ac827cfae533acfbdeda279e8f7155fc31afc412ce17d7b"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/derinkuyu-underground-city-6.mp3",
+   "bytes": 576617,
+   "sha256": "1ea3049b727e042bd0331a8e73dbfbf0ad74c3f64654eaa9cd4261e585d77d00"
   },
   "en:dolmabahce-palace:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/dolmabahce-palace-1.mp3",
@@ -8722,9 +8722,9 @@
    "sha256": "0277beb44303e170241f6789db58adb5467c65548f3b7c02d83ded57c4ce2581"
   },
   "en:dolmabahce-palace:7": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/dolmabahce-palace-7.mp3",
-   "bytes": 401910,
-   "sha256": "c7286ccead03567f3cc735af6a5b4bfb9ba4ff5cd8cbe1f21957a52aa90881a5"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/dolmabahce-palace-7.mp3",
+   "bytes": 384356,
+   "sha256": "851bf28bb0d86ea9f44401c538b8bf1cfb1a5da6f79d6129adf0c0b18497b119"
   },
   "en:ephesus:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/ephesus-1.mp3",
@@ -8812,9 +8812,9 @@
    "sha256": "04e21aa05b013b554ae9cb36d5f4f60d42556e8cc3a6442ce8d275a90dcd4ea0"
   },
   "en:fethiye-amyntas-tombs:3": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/fethiye-amyntas-tombs-3.mp3",
-   "bytes": 335037,
-   "sha256": "c9c2b70463ca45f806441101c2897b893259badc46cffa816e76f4411ce57118"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/fethiye-amyntas-tombs-3.mp3",
+   "bytes": 316856,
+   "sha256": "91574b98b5f34e00f472f0fc96c43834fc8c2fe2ea85d19f46776a45254724a0"
   },
   "en:fethiye-kayakoy:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/fethiye-kayakoy-1.mp3",
@@ -8832,9 +8832,9 @@
    "sha256": "1634945fa858c201e4e34e4486f1684b6aed93af964b67d8e2f7ccbe4a449b2d"
   },
   "en:fethiye-kayakoy:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/fethiye-kayakoy-4.mp3",
-   "bytes": 317065,
-   "sha256": "a2019f199d15f71891348df9a33b3e524948ad9244f560cfffbc83ba4a14ba4b"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/fethiye-kayakoy-4.mp3",
+   "bytes": 300973,
+   "sha256": "1d6e50ed7fba53d4e196781fe2e1155e52e469306b7e3affcd3705b458bd1402"
   },
   "en:fethiye-oludeniz:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/fethiye-oludeniz-1.mp3",
@@ -8847,9 +8847,9 @@
    "sha256": "bdf1ae0856c0be2034786302be1c647d043fbfebc4cd9533560922ce21f862dc"
   },
   "en:fethiye-oludeniz:3": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/fethiye-oludeniz-3.mp3",
-   "bytes": 328140,
-   "sha256": "57833d08d8ce8a996b981319077b05dee40beb662c7fb5735cef95a4c367b7f4"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/fethiye-oludeniz-3.mp3",
+   "bytes": 308705,
+   "sha256": "820c3bd8ef61280318aa58268135e34d122895b5b4a06764cb170b25ea4bbf9c"
   },
   "en:fethiye-telmessos:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/fethiye-telmessos-1.mp3",
@@ -8867,9 +8867,9 @@
    "sha256": "656cfc498678289513a062c62713768b821e46ccb7418c428267fb4f498afad4"
   },
   "en:fethiye-telmessos:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/fethiye-telmessos-4.mp3",
-   "bytes": 308914,
-   "sha256": "c4d3c04afc0192d1cc8d541b3bb652bc81f5fae8bc002885a7e17e8edca24f6f"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/fethiye-telmessos-4.mp3",
+   "bytes": 291151,
+   "sha256": "93a08527d6a90199fb764e9f963de90e2dbb42c30dae725f80d61708988b06b8"
   },
   "en:galata-tower:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/galata-tower-1.mp3",
@@ -8892,9 +8892,9 @@
    "sha256": "cacecf6d36fe2733c0efcadd2e912ebd94c1570ad7a4a9a07ed3a734d36f31d7"
   },
   "en:galata-tower:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/galata-tower-5.mp3",
-   "bytes": 482576,
-   "sha256": "2d62f179ee1c63306f8d163e3986e0a6a7611cbdc629492958b5c0c59e8a4a1f"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/galata-tower-5.mp3",
+   "bytes": 463350,
+   "sha256": "afefd8517f03c490cc0520ea0f32b28f70106d897376e0b89bef21866b29f059"
   },
   "en:galata-tower:6": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/galata-tower-6.mp3",
@@ -8952,9 +8952,9 @@
    "sha256": "177ba0579c1863f824653dfa645f1acd79f642157d710f7a46d7977d18c9d321"
   },
   "en:gobekli-tepe:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/gobekli-tepe-5.mp3",
-   "bytes": 487383,
-   "sha256": "9cd6eaa352c3c450803b38bff0f0d1987016ccfcd78c3b8a1461b16356ee1009"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/gobekli-tepe-5.mp3",
+   "bytes": 418211,
+   "sha256": "638333ccf93e62aca1830a88a1e3f4aa412ec54c699f2b062b53e0f1b3ce523d"
   },
   "en:goreme-open-air-museum:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/goreme-open-air-museum-1.mp3",
@@ -9022,9 +9022,9 @@
    "sha256": "fcda24364a4403b02374613574c4f9e73534b6f6b9532ccbb640e3fa27335511"
   },
   "en:grand-bazaar:6": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/grand-bazaar-6.mp3",
-   "bytes": 660000,
-   "sha256": "f19e175c1ec92902a68548acbac9668aa8c4edea21eb9b73981c8f6ab2377dfb"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/grand-bazaar-6.mp3",
+   "bytes": 638684,
+   "sha256": "dcbcfcd32a19db3b13486c664f0e3e2df21bf66f09216f72d08b4fc059286bcd"
   },
   "en:grand-bazaar:7": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/grand-bazaar-7.mp3",
@@ -9097,9 +9097,9 @@
    "sha256": "adda5ccb7d53dba9c7d0a2d91c11bd7aa6cb2837bf2de4f3728225e2d21eefc9"
   },
   "en:house-of-virgin-mary:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/house-of-virgin-mary-4.mp3",
-   "bytes": 359069,
-   "sha256": "566e38502c8e0c9fbfee6a75f79d4a83fa3e2ced4d93c59dbe41d90989c3af1a"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/house-of-virgin-mary-4.mp3",
+   "bytes": 349456,
+   "sha256": "13e17b41a3bd453539c8fd4ad552c0dde1975ec4d132a78b0c039252973a964a"
   },
   "en:ihlara-selime:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/ihlara-selime-1.mp3",
@@ -9117,9 +9117,9 @@
    "sha256": "8e9cf045cf612d87de143d46265a7cc48e26e5521227f3a9028a471dfa96016d"
   },
   "en:ihlara-selime:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/ihlara-selime-4.mp3",
-   "bytes": 387491,
-   "sha256": "c8966e76adc5919d24424229dc38a87fa13a8ae3bafa67f9d93bd8dd44900749"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/ihlara-selime-4.mp3",
+   "bytes": 366593,
+   "sha256": "d2d1e6596adfc9a98891591f98253eccd07665de1162fbc229162150218ae744"
   },
   "en:kaymakli-underground-city:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/kaymakli-underground-city-1.mp3",
@@ -9142,9 +9142,9 @@
    "sha256": "0a2ad392013e383061020d9271dd9bd1d633fbecf095f8b494db8ea998a948e8"
   },
   "en:kaymakli-underground-city:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/kaymakli-underground-city-5.mp3",
-   "bytes": 452274,
-   "sha256": "7cf4936c92c2cbc9dfe77eea4759a5d0414eb5fe70adfe47bf267c3983d579a6"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/kaymakli-underground-city-5.mp3",
+   "bytes": 396059,
+   "sha256": "ab2c4ef0ac51788856579e1b9e4ec1c1f04f5dbe42e4e273c6fba250e0341624"
   },
   "en:mount-nemrut:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/mount-nemrut-1.mp3",
@@ -9167,9 +9167,9 @@
    "sha256": "fef5c45cfebbc7d3d3c89274ae4311033fc8f446ef5c77525c1932319adde347"
   },
   "en:mount-nemrut:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/mount-nemrut-5.mp3",
-   "bytes": 360114,
-   "sha256": "8e64e019fd3e925e045a3493ea9d4cb2e76d59f36569dabf8a52786d24cce86a"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/mount-nemrut-5.mp3",
+   "bytes": 343605,
+   "sha256": "eac23c4d1a025af540c3fb2634405731a1344bf0c6389be627666312d1cd9467"
   },
   "en:myra-kekova:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/myra-kekova-1.mp3",
@@ -9192,9 +9192,9 @@
    "sha256": "825a05764696b8a9d3e388c3eb58a4d6a3ed43fe338d3507d49924864d59a534"
   },
   "en:myra-kekova:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/myra-kekova-5.mp3",
-   "bytes": 170779,
-   "sha256": "2aab0b3fe5f389e49abf2843262913add3178526207c92c05cae65e9fedf1ead"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/myra-kekova-5.mp3",
+   "bytes": 132536,
+   "sha256": "974177b4d08956cc1aadb513ff26555483c283ab5acaa41c22f9790da6d91dea"
   },
   "en:ortahisar:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/ortahisar-1.mp3",
@@ -9337,9 +9337,9 @@
    "sha256": "9528a1a6b8e2a6d86d8455ecbf32e586c9b216579aa13f5160699d14a2799491"
   },
   "en:selcuk-sites:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/selcuk-sites-5.mp3",
-   "bytes": 331066,
-   "sha256": "e616c7d7601822258eaa49ed5ac352f82a3cf66835c7d693ef0857bd640e80e4"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/selcuk-sites-5.mp3",
+   "bytes": 289061,
+   "sha256": "1df1a24e43c2e7a7c4334f641866e6086c82d239c9619839e522487666721cea"
   },
   "en:side:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/side-1.mp3",
@@ -9382,9 +9382,9 @@
    "sha256": "20c32cdbbb903cd822e0c344aa2107f39877dd1892be70737ede439b89b9f0ed"
   },
   "en:sirince:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/sirince-4.mp3",
-   "bytes": 160539,
-   "sha256": "a262d2634e94b573b45ae45f1a3e922aee7ae789abe3bd62c766bda1b1cc61d4"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/sirince-4.mp3",
+   "bytes": 145074,
+   "sha256": "1224f92fcdc1060fd6b772779849d8681d97f5a0b65c1e637aa90ab521a467a6"
   },
   "en:sumela-monastery:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/sumela-monastery-1.mp3",
@@ -9402,14 +9402,14 @@
    "sha256": "e3ebab81f1e65895e4292be706e53cd865c7f5229c4dc00cc0c8242e0547e2ed"
   },
   "en:sumela-monastery:4": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/sumela-monastery-4.mp3",
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/sumela-monastery-4.mp3",
    "bytes": 558227,
    "sha256": "a7df8d42479fa4c310055786889c4843dd9ad76694634760900e7756500772df"
   },
   "en:sumela-monastery:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/sumela-monastery-5.mp3",
-   "bytes": 295540,
-   "sha256": "572bb9b6e62f36a769d9e789e5fec9732e1110f3d4a0e20a4cdbc47618a97b12"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/sumela-monastery-5.mp3",
+   "bytes": 212366,
+   "sha256": "174430fd77fd3a08536cfdc7c2d69f685ed5ef30e9442d9015b34c3779f631b0"
   },
   "en:topkapi-palace:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/topkapi-palace-1.mp3",
@@ -9532,9 +9532,9 @@
    "sha256": "4a25cc029fd72b59e6b200fc604f352cf9a6213b90b5615ceb87e2f2609c946a"
   },
   "en:zelve-pasabag:5": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@f423891e19542a3f3be5c2156642b362d3743b79/audio/en/zelve-pasabag-5.mp3",
-   "bytes": 350083,
-   "sha256": "8e146f8000fbcf6640c70941d74de246ee9c6292c6c20ecbe583f5fc657b26f7"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/audio/en/zelve-pasabag-5.mp3",
+   "bytes": 329185,
+   "sha256": "295002fbee22ef929bd201827fcfb07e4d7bf5abac9f1704a8ee623c37744e3a"
   },
   "de:antalya-kaleici:1": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@32a8a9eef2821837821d48bf5cd619516fec9426/audio/de/antalya-kaleici-1.mp3",
@@ -19779,49 +19779,49 @@
  },
  "text": {
   "de:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/de/turkey.json",
-   "bytes": 565270,
-   "sha256": "0ac0cba2d0ad7ea8507ef36149788e66bab12fa184871df409302be0a2ceafa3"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/de/turkey.json",
+   "bytes": 562510,
+   "sha256": "ccd5d92c8a3a45e1272975bc3133157e7c966f3150906a881af680146bb42837"
   },
   "fr:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/fr/turkey.json",
-   "bytes": 579972,
-   "sha256": "c774d7224037bb7c43c56aec12aa4dc91b21cf5675c8067ac2af63a923ccb4b0"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/fr/turkey.json",
+   "bytes": 577894,
+   "sha256": "69ea45165f4a1089ebe4781be5434d352233a7c494cb2eea4eee79ba42c89639"
   },
   "es:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/es/turkey.json",
-   "bytes": 554012,
-   "sha256": "9222a6536bcaa3f9f3da26315ec9f8be72703239fa4e0cc67eebde1a8861340a"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/es/turkey.json",
+   "bytes": 551815,
+   "sha256": "efd67e781adc018b177f576bcb24996c91af8ef40514b2defa2e510ab04dc164"
   },
   "ru:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/ru/turkey.json",
-   "bytes": 861126,
-   "sha256": "76f5de9a491333317393bac7053921bc5130139dfa2c3807d575546d25945a0b"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/ru/turkey.json",
+   "bytes": 857498,
+   "sha256": "c32f87b64aa5de48fa7fee5800d98e090d8eaf9ca9345145ee8f614a1fdc99bb"
   },
   "it:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/it/turkey.json",
-   "bytes": 549653,
-   "sha256": "e3adeffd9c84753b960688ae911db793ef6370810409ddb183d654c80a614604"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/it/turkey.json",
+   "bytes": 547418,
+   "sha256": "36e503a971f3ce71b39b6b5b74a16434f0e8d64451b66aef8093824c82c7debe"
   },
   "pt:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/pt/turkey.json",
-   "bytes": 538596,
-   "sha256": "43567ad0a0be24d548028b3f7e23cbf6bd00c82ab607348dca54bc94eea9335f"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/pt/turkey.json",
+   "bytes": 536733,
+   "sha256": "173a48b153e5f11debe72e325451f2592ddbb4205800a50262e14f3611d057bd"
   },
   "zh:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/zh/turkey.json",
-   "bytes": 491138,
-   "sha256": "feabfa227ff36e01756678f8d8b92a35f8f3b88e960936d301e8be34d6255690"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/zh/turkey.json",
+   "bytes": 487749,
+   "sha256": "de45ca500be2977e74cf6a62860388ac1e21a49c036d92442426d4c853001e08"
   },
   "ja:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/ja/turkey.json",
-   "bytes": 686979,
-   "sha256": "51f4eb84c3062bfb80f234e3d126bc4d2e52832ae662fbb691f4cbd066e2875d"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/ja/turkey.json",
+   "bytes": 680727,
+   "sha256": "800b09e31f3514a5a8439914a042d0dd64992218823d225f06a000ba8d4fd896"
   },
   "ko:turkey": {
-   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@ef37d28a3bae4c96aa70fe6987f57787abf2e079/text/ko/turkey.json",
-   "bytes": 632060,
-   "sha256": "6940a97c82da51327bccb4af5fcca9475fcfcfae24f25fa956189fbab06dd256"
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@3e4255d19caac8cd566799357e7751440bb52e33/text/ko/turkey.json",
+   "bytes": 627503,
+   "sha256": "178b8c5d9f9e23c8a88799bdac8613256ed1f5f0b4ed933a57d3b71a2a798e74"
   },
   "de:italy": {
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@d8d47cd1144510d07532d814d03dece64737fa40/text/de/italy.json",
