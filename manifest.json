@@ -1,5 +1,5 @@
 {
- "version": 18,
+ "version": 19,
  "commit": "9318155416ed03560fe6e727bb2d59c8ff0cfe51",
  "baseUrl": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@9318155416ed03560fe6e727bb2d59c8ff0cfe51/",
  "images": {
@@ -15265,6 +15265,101 @@
    "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@2c5dd9a009a8553e2b4f2f6066ca1d894832347b/audio/en/perge-5.mp3",
    "bytes": 416748,
    "sha256": "9090d8a3c8e0e3e257297268189fd77c2791a541cef0943c766e47eb15413bc2"
+  },
+  "en:goreme-open-air-museum:1": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/goreme-open-air-museum-1.mp3",
+   "bytes": 774521,
+   "sha256": "b62148f373d2b9b3513506ac2810240bdcd65853fdd845e672a0365fd3fe22ed"
+  },
+  "en:goreme-open-air-museum:2": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/goreme-open-air-museum-2.mp3",
+   "bytes": 306616,
+   "sha256": "d8976cdae94686890f55ef17f3df3c2a6be15acaef3f2b084637608cb1b7e87c"
+  },
+  "en:goreme-open-air-museum:3": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/goreme-open-air-museum-3.mp3",
+   "bytes": 339634,
+   "sha256": "1faeec316db0710427485630d31f6d995cffb20e23e80626ad3a0ea5a9f229f7"
+  },
+  "en:goreme-open-air-museum:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/goreme-open-air-museum-6.mp3",
+   "bytes": 338798,
+   "sha256": "4b077abc2499d3d1249e9dfbc0f45dbd88066e83ee49f70908e90d0043f428a9"
+  },
+  "en:goreme-open-air-museum:8": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/goreme-open-air-museum-8.mp3",
+   "bytes": 317065,
+   "sha256": "2ec195a19fa640db58f46a7cce36a45a3180d3e41dc7cae929b0eb0e089d44e9"
+  },
+  "en:goreme-open-air-museum:9": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/goreme-open-air-museum-9.mp3",
+   "bytes": 365130,
+   "sha256": "852dbe23f89fd17e659ffeb91c18208ee23c838348e73ccf0bcb078473bc829e"
+  },
+  "en:goreme-open-air-museum:10": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/goreme-open-air-museum-10.mp3",
+   "bytes": 349665,
+   "sha256": "71785e220117bba46e9330cb7b2ce5855dc311cecae85f9ad6e12826ca4561df"
+  },
+  "en:goreme-open-air-museum:11": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/goreme-open-air-museum-11.mp3",
+   "bytes": 478815,
+   "sha256": "d14b7357d148a834f720d39d19a7b8262cb3a038cb945cbc91b103bca3a13e15"
+  },
+  "en:cappadocia-valleys-uchisar:1": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/cappadocia-valleys-uchisar-1.mp3",
+   "bytes": 373489,
+   "sha256": "a3d06f07cf165d8c5525a7966bb845d49152980b411c7cce86f1dc53e5578fbc"
+  },
+  "en:derinkuyu-underground-city:2": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/derinkuyu-underground-city-2.mp3",
+   "bytes": 365966,
+   "sha256": "74cdc8402e70a3e32133d4de9aa39ae76524c5c5d47e2ece89d269cae74d1533"
+  },
+  "en:derinkuyu-underground-city:4": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/derinkuyu-underground-city-4.mp3",
+   "bytes": 337963,
+   "sha256": "7cd7615f414e3f4c3395e725c5d8bfcbafc0f743c21a98d46117b64569106ddd"
+  },
+  "en:zelve-pasabag:6": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/zelve-pasabag-6.mp3",
+   "bytes": 340470,
+   "sha256": "4b26bafbb120eb4c9a50b30bcc175d82578f455c19c4716383f537642f5bc501"
+  },
+  "en:ihlara-selime:2": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/ihlara-selime-2.mp3",
+   "bytes": 404627,
+   "sha256": "548c42f6beefc2c873bfc7ceb600e2dd190094626979b0885ff184d02808ae2b"
+  },
+  "en:ortahisar:2": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/ortahisar-2.mp3",
+   "bytes": 254580,
+   "sha256": "e12f03509e1470a590039932ed0d60d8edb928c421fc14fb185f92e7abb26565"
+  },
+  "en:ortahisar:3": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/ortahisar-3.mp3",
+   "bytes": 379758,
+   "sha256": "e5fbca7c1a6a6468d957347415557eac26d3837f20ce4c8281e44f36241c5397"
+  },
+  "en:avanos:2": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/avanos-2.mp3",
+   "bytes": 456454,
+   "sha256": "3c2259ac58341e68aafc48ecaf0598f541562f22c6d7879a087b97c6e24acb85"
+  },
+  "en:avanos:3": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/avanos-3.mp3",
+   "bytes": 487801,
+   "sha256": "adabf1a044c6e8904b0a985cd2af504eac114f5b781cd6f557ebf6abf9124572"
+  },
+  "en:cavusin:2": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/cavusin-2.mp3",
+   "bytes": 201917,
+   "sha256": "c5d400b34921a8d5d22948113b75032d033e9c97505e4ae9c31c17ff4c9640e6"
+  },
+  "en:cavusin:3": {
+   "url": "https://cdn.jsdelivr.net/gh/RikusFick/Travel_app_media@17e62846b8cf00fb63be80e4f56f71287551e0eb/audio/en/cavusin-3.mp3",
+   "bytes": 405254,
+   "sha256": "b0d6cf3b2e34fe7bb86f836ca4087d3e169e7b905789349c4a1e5a33671f54ba"
   }
  },
  "text": {
